@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\source\\python\\UrbanSound8K\\pkl\\audio.ckpt"
+all_model_checkpoint_paths: "D:\\source\\python\\UrbanSound8K\\pkl\\audio.ckpt"
